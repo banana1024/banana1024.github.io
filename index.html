@@ -1,0 +1,374 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>52考研</title>
+<link rel="shortcut icon" href="https://banana1024.github.io/favicon.ico">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"> -->
+<!-- <link rel="stylesheet" href="https://banana1024.github.io/media/css/tailwind.css"> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/banana1024/52kaoyan_CDN@v1.0.0/media/css/tailwind.css">
+<link rel="stylesheet" href="https://banana1024.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="52考研 - Atom Feed" href="https://banana1024.github.io/atom.xml">
+<script data-ad-client="ca-pub-4184482712295691" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    
+
+  <meta name="description" content="学而不思则罔  思不学则殆" />
+</head>
+<body>
+  <div class="antialiased flex flex-col min-h-screen" id="app">
+
+    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
+  <div class="flex justify-end px-4">
+    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
+      <i class="ri-close-line" v-show="showMenu"></i>
+      <i class="ri-menu-3-line" v-show="!showMenu"></i>
+    </div>
+  </div>
+  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
+    
+      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        首页
+      </a>
+    
+      <a href="/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        历史文章
+      </a>
+    
+      <a href="/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        文章分类
+      </a>
+    
+      <a href="/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        关于
+      </a>
+    
+    <a href="https://banana1024.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+      RSS
+    </a>
+  </nav>
+</div>
+
+    <div class="max-w-4xl w-full mx-auto ">
+      
+        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-8 animated fadeIn">
+  <div class="flex-1 order-2 md:order-1 md:pr-16">
+    <div class="text-4xl font-bold text-center md:text-left">
+      52考研
+    </div>
+    <div class="text-xl text-gray-500 mt-4 text-center md:text-left">
+      学而不思则罔  思不学则殆
+    </div>
+    
+      <div class="mt-8 text-center md:text-left">
+        <a
+          href="/post/about" 
+          arget="_blank"
+          class="text-sm bg-yellow-50 dark:bg-indigo-500 dark:text-gray-700 font-semibold px-4 py-2 inline-block yellow-btn transition-fast rounded"
+        >LET&#39;S TALK!</a>
+      </div>
+    
+    
+      <div class="mt-8 flex items-center">
+        
+          <div class="text-gray-500 mr-2">
+            Follow me 👉
+          </div>
+        
+        
+          
+            
+              <div class="relative mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 transition-fast dark:hover:bg-gray-600 wechat">
+                <i class="ri-wechat-line"></i>
+                <img src="\media\images\custom-wechat.jpg" alt="" class="absolute left-0 w-32" style="max-width: initial; top: 100%;" >
+              </div>
+            
+          
+        
+          
+            
+              <a href="mailto:991161108@qq.com" target="_blank" class="mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 dark:hover:bg-gray-600 transition-fast">
+                <i class="ri-mail-line"></i>
+              </a>
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            
+              <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=991161108&amp;site=qq&amp;menu=yes" target="_blank" class="mr-2 w-8 h-8 inline-flex items-center justify-center text-xl hover:bg-gray-200 dark:hover:bg-gray-600 transition-fast">
+                <i class="ri-qq-line"></i>
+              </a>
+            
+          
+        
+      </div>
+    
+  </div>
+  <div class="md:mx-8 flex-shrink-0 self-start rounded-full border-4 border-dotted border-transparent hover:border-yellow-50 p-2 w-32 h-32 order-1 md:order-2 mx-auto s3-dotted">
+    <img class="rounded-full object-cover" src="https://banana1024.github.io/images/avatar.png?v=1584438367696" alt="52考研" width="100%" height="100%">
+  </div>
+</header>
+      
+
+      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+        
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+      <i class="ri-star-line text-orange-200 absolute text-2xl left-0 ml-1 rotate-90"></i>
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/wen-xin-ti-shi/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          温馨提示
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2020-03-11</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2020-03-11</span>
+        <span id="/post/wen-xin-ti-shi/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="温馨提示"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/wen-xin-ti-shi/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <p>1、资料更新通知可能慢于或者快于资料实际更新时间1小时左右。平时这种课程肯定慢于官网几天，不要过于催促！</p>
+
+      </div>
+      <a href="https://banana1024.github.io/post/wen-xin-ti-shi/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://banana1024.github.io/post-images/wen-xin-ti-shi.png" alt="温馨提示">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/3-yue-11-ri-geng-xin/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          3月11日更新
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2020-03-11</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2020-03-11</span>
+        <span id="/post/3-yue-11-ri-geng-xin/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="3月11日更新"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/3-yue-11-ri-geng-xin/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <p>AMYOU(1877792909) 2020/3/10 4:29:42<br>
+【2021英语】新东方全程班 第三轮【吃透十年真题】 英语二2010 t3-t4<br>
+【2021英语】谭建波-陪伴班基础语法课程07<br>
+【2021英语】谭建波-陪伴班词汇基础01 <br>
+【2021英语】何凯文-凯旋门【赠课】何凯文1575词汇突破配套课程更新9讲<br>
+【2021英语】商志 -长难句 更新至12.第十一讲 <br>
+【2021英语】朱伟全程班 长难句试炼lesson8<br>
+【2021中宗】文都-基础精讲中医内科学8<br>
+【2021数学】启航张宇-基础30讲-更新第13讲50-52<br>
+【2021数学】汤家凤-1800i题-05基础篇讲解～极限与连续（4）<br>
+【2021数学】新东方直播课程 第二阶基础夯实 线代02讲<br>
+【2021数学】抢分 新高数基础班 33-35讲<br>
+【2021数学】考-基础班高数第23节<br>
+【2021政治】考-基础班-马原第6节<br>
+【2021政治】文-凯旋门004-2021考研政治导学预热-马原导学（张怀兵）-3月8日直播回放</p>
+
+      </div>
+      <a href="https://banana1024.github.io/post/3-yue-11-ri-geng-xin/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://banana1024.github.io/post-images/3-yue-11-ri-geng-xin.png" alt="3月11日更新">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          Github+jsDelivr+PicGo 打造稳定快速、高效免费图床
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2020-03-11</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2020-03-11</span>
+        <span id="/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="Github+jsDelivr+PicGo 打造稳定快速、高效免费图床"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <h1 id="前言">– 前言</h1>
+<p>图床是个啥东西就不用过多介绍了，先来对比一下各路图床：</p>
+<blockquote>
+<ul>
+<li>微博图床：以前用的人比较多，从2019年4月开始开启了防盗链，凉凉</li>
+<li>SM.MS：运营四年多了，也变得越来越慢了，到了晚上直接打不开图片，速度堪忧</li>
+<li>其他小众图床：随时有挂掉的风险</li>
+<li>Imgur等国外图床：国内访问速度太慢，随时有被墙的风险</li>
+</ul>
+</blockquote>
+
+      </div>
+      <a href="https://banana1024.github.io/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://banana1024.github.io/post-images/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang.png" alt="Github+jsDelivr+PicGo 打造稳定快速、高效免费图床">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/3-yue-10-geng-xin-nei-rong/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          3月10更新内容
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2020-03-11</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2020-03-11</span>
+        <span id="/post/3-yue-10-geng-xin-nei-rong/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="3月10更新内容"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/3-yue-10-geng-xin-nei-rong/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <p>【2021政治】考-基础马原更新第7节<br>
+【2021政治】新东-史纲预热更新第7次<br>
+【2021英语】朱伟-5500词听写讲义更新</p>
+
+      </div>
+      <a href="https://banana1024.github.io/post/3-yue-10-geng-xin-nei-rong/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://banana1024.github.io/post-images/3-yue-10-geng-xin-nei-rong.jpg" alt="3月10更新内容">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/test/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          Gridea 进行网站的发布和文章编写
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2020-03-08</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2020-03-08</span>
+        <span id="/post/test/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="Gridea 进行网站的发布和文章编写"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/test/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <p><strong>Coding 介绍</strong><br>
+<a href="https://coding.net/">CODING</a> 和 <a href="https://www.github.com/">GitHub</a> 主要功能类似，都是提供代码托管服务。由于 Coding 为腾讯代理，在国内的服务器较多，<strong>所以使用 <a href="https://coding.net/">Coding Page</a> 运行速度要比 <a href="https://pages.github.com/">GitHub Page</a> 快很多</strong>。</p>
+
+      </div>
+      <a href="https://banana1024.github.io/post/test/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://banana1024.github.io/post/hello-gridea/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          Hello Gridea
+        </a>
+      </h2>
+      <!-- <div class="mb-4 text-xs text-gray-500">2018-12-12</div> -->
+      <div class="text-gray-400 text-sm mr-2 flex items-center mb-4">
+        <span class="inline-flex items-center justify-center mr-2" ><i class="ri-calendar-todo-line ri-sm mr-1"></i>2018-12-12</span>
+        <span id="/post/hello-gridea/" class="leancloud_visitors inline-flex items-center justify-center mr-2" data-flag-title="Hello Gridea"><i class="ri-eye-line ri-sm mr-1" ></i><span class="leancloud-visitors-count">0</span></span>
+        <span class="inline-flex items-center justify-center"><i class="ri-message-3-line ri-sm mr-1"></i><span class="comment-count valine-comment-count text-sm mr-1" data-xid="/post/hello-gridea/">0</span></span>
+      </div>
+      
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+
+      </div>
+      <a href="https://banana1024.github.io/post/hello-gridea/" class="btn">
+        阅读更多
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://banana1024.github.io/post-images/hello-gridea.png" alt="Hello Gridea">
+    
+  </div>
+  
+      </div>
+
+      
+      <footer class="py-12 text-center px-4 md:px-0" v-pre>
+  <a href="http://www.beian.miit.gov.cn/" target="_blank">皖ICP备20002779号</a>
+<a href="https://www.upyun.com" target="_blank"><img src="/post-images/logo2.png" width="60" style="
+    display: inline-block;"></a>
+</footer>
+
+    </div>
+  </div>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+  <script src="https://lib.baomitu.com/vue/2.6.10/vue.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/banana1024/52kaoyan_CDN@v1.0.0/media/scripts/main.js"></script>
+
+  <script type="application/javascript" src="https://lib.baomitu.com/valine/1.3.10/Valine.min.js"></script>
+  <!-- <script type="application/javascript" src="https://banana1024.github.io/media/scripts/valine.min.js"></script> -->
+  <script type="application/javascript">
+  
+    // var valine = new Valine();
+    // valine.init({
+    //   el: '#vlaine-comment',
+    //   appId: '7ntTGl5bnggyzDJlAsPDL6Yx-gzGzoHsz',
+    //   appKey: 'DJF0N50eLKV7H1VoRKyTjHbs',
+    //   notify: false,
+    //   avatar: 'mp',
+    //   verify: true,
+    //   placeholder: '来都来了，不妨评论一下',
+    //   visitor: true,
+    //   highlight: false,
+    //   recordIP: true,
+    // })
+  
+    var valine = new Valine();
+    valine.init({
+      appId: '7ntTGl5bnggyzDJlAsPDL6Yx-gzGzoHsz',
+      appKey: 'DJF0N50eLKV7H1VoRKyTjHbs',
+      notify: false,
+      verify: true,
+      visitor: true,
+    })
+  </script>
+</body>
+
+</html>

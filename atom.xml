@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://banana1024.github.io</id>
+    <title>52考研</title>
+    <updated>2020-03-17T09:46:22.703Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://banana1024.github.io"/>
+    <link rel="self" href="https://banana1024.github.io/atom.xml"/>
+    <subtitle>学而不思则罔  思不学则殆</subtitle>
+    <logo>https://banana1024.github.io/images/avatar.png</logo>
+    <icon>https://banana1024.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 52考研</rights>
+    <entry>
+        <title type="html"><![CDATA[3月11日更新]]></title>
+        <id>https://banana1024.github.io/post/3-yue-11-ri-geng-xin/</id>
+        <link href="https://banana1024.github.io/post/3-yue-11-ri-geng-xin/">
+        </link>
+        <updated>2020-03-11T02:56:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>AMYOU(1877792909) 2020/3/10 4:29:42<br>
+【2021英语】新东方全程班 第三轮【吃透十年真题】 英语二2010 t3-t4<br>
+【2021英语】谭建波-陪伴班基础语法课程07<br>
+【2021英语】谭建波-陪伴班词汇基础01 <br>
+【2021英语】何凯文-凯旋门【赠课】何凯文1575词汇突破配套课程更新9讲<br>
+【2021英语】商志 -长难句 更新至12.第十一讲 <br>
+【2021英语】朱伟全程班 长难句试炼lesson8<br>
+【2021中宗】文都-基础精讲中医内科学8<br>
+【2021数学】启航张宇-基础30讲-更新第13讲50-52<br>
+【2021数学】汤家凤-1800i题-05基础篇讲解～极限与连续（4）<br>
+【2021数学】新东方直播课程 第二阶基础夯实 线代02讲<br>
+【2021数学】抢分 新高数基础班 33-35讲<br>
+【2021数学】考-基础班高数第23节<br>
+【2021政治】考-基础班-马原第6节<br>
+【2021政治】文-凯旋门004-2021考研政治导学预热-马原导学（张怀兵）-3月8日直播回放</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>AMYOU(1877792909) 2020/3/10 4:29:42<br>
+【2021英语】新东方全程班 第三轮【吃透十年真题】 英语二2010 t3-t4<br>
+【2021英语】谭建波-陪伴班基础语法课程07<br>
+【2021英语】谭建波-陪伴班词汇基础01 <br>
+【2021英语】何凯文-凯旋门【赠课】何凯文1575词汇突破配套课程更新9讲<br>
+【2021英语】商志 -长难句 更新至12.第十一讲 <br>
+【2021英语】朱伟全程班 长难句试炼lesson8<br>
+【2021中宗】文都-基础精讲中医内科学8<br>
+【2021数学】启航张宇-基础30讲-更新第13讲50-52<br>
+【2021数学】汤家凤-1800i题-05基础篇讲解～极限与连续（4）<br>
+【2021数学】新东方直播课程 第二阶基础夯实 线代02讲<br>
+【2021数学】抢分 新高数基础班 33-35讲<br>
+【2021数学】考-基础班高数第23节<br>
+【2021政治】考-基础班-马原第6节<br>
+【2021政治】文-凯旋门004-2021考研政治导学预热-马原导学（张怀兵）-3月8日直播回放</p>
+<!-- more -->
+<p>【2021政治】文-基础班 万磊马原第一讲 8日直播<br>
+【2021西综】医考帮-基础外科更新61-69<br>
+【2021西综】考-私教服务课程更新28-31<br>
+【2021管综】文-基础班-逻辑更新8讲<br>
+【2021管综】公共管理，审计，图书情报，工商管理，旅游等2021院校选择<br>
+【2021护理308】文-基础班-内科护理学更新到14节<br>
+【2021教育学311】考-第二阶段中国教育史-知识精讲：教育学原理更新<br>
+【2021教育学333】考-第二阶段中国教育史-知识精讲：教育学原理更新</p>
+<p>说明：<br>
+1、以上更新起提醒作用 不包括所有更新<br>
+但上面说的肯定都更新了！</p>
+<p>2、百度网盘群内文件夹日期是不会变得<br>
+但内容是会随着我更新而更新 不需要更新一次发一次在网盘群</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github+jsDelivr+PicGo 打造稳定快速、高效免费图床]]></title>
+        <id>https://banana1024.github.io/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/</id>
+        <link href="https://banana1024.github.io/post/githubjsdelivrpicgo-da-zao-wen-ding-kuai-su-gao-xiao-mian-fei-tu-chuang/">
+        </link>
+        <updated>2020-03-10T17:23:36.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言">– 前言</h1>
+<p>图床是个啥东西就不用过多介绍了，先来对比一下各路图床：</p>
+<blockquote>
+<ul>
+<li>微博图床：以前用的人比较多，从2019年4月开始开启了防盗链，凉凉</li>
+<li>SM.MS：运营四年多了，也变得越来越慢了，到了晚上直接打不开图片，速度堪忧</li>
+<li>其他小众图床：随时有挂掉的风险</li>
+<li>Imgur等国外图床：国内访问速度太慢，随时有被墙的风险</li>
+</ul>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="前言">– 前言</h1>
+<p>图床是个啥东西就不用过多介绍了，先来对比一下各路图床：</p>
+<blockquote>
+<ul>
+<li>微博图床：以前用的人比较多，从2019年4月开始开启了防盗链，凉凉</li>
+<li>SM.MS：运营四年多了，也变得越来越慢了，到了晚上直接打不开图片，速度堪忧</li>
+<li>其他小众图床：随时有挂掉的风险</li>
+<li>Imgur等国外图床：国内访问速度太慢，随时有被墙的风险</li>
+</ul>
+</blockquote>
+<!-- more -->
+<blockquote>
+<ul>
+<li>大厂储存服务：例如七牛云、又拍云、腾讯云COS、阿里云OSS等，容量限制，操作繁琐，又是实名认证又是域名备案的，麻烦，而且还要花钱（有钱又不怕麻烦的当我没说）</li>
+</ul>
+</blockquote>
+<p>因此，GitHub图床是个不错的选择，利用jsDelivr CDN加速访问（jsDelivr 是一个免费开源的 CDN 解决方案），PicGo工具一键上传，操作简单高效，GitHub和jsDelivr都是大厂，不用担心跑路问题，不用担心速度和容量问题，而且完全免费，可以说是目前免费图床的最佳解决方案！</p>
+<hr>
+<h1 id="新建github仓库">– 新建GitHub仓库</h1>
+<p>登录/注册GitHub，新建一个仓库，填写好仓库名，仓库描述，根据需求选择是否为仓库初始化一个README.md描述文件<br>
+<img src="https://img-blog.csdnimg.cn/20190920000150159.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="01" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20190920000139844.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="02" loading="lazy"></p>
+<hr>
+<h1 id="生成一个token">– 生成一个Token</h1>
+<p>在主页依次选择【Settings】-【Developer settings】-【Personal access tokens】-【Generate new token】，填写好描述，勾选【repo】，然后点击【Generate token】生成一个Token，注意这个Token只会显示一次，自己先保存下来，或者等后面配置好PicGo后再关闭此网页<br>
+<img src="https://img-blog.csdnimg.cn/20190920000128625.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="03" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20190920000117661.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="04" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20190920000103409.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="05" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20190920000048156.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="06" loading="lazy"><br>
+<img src="https://img-blog.csdnimg.cn/20190920000036465.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="07" loading="lazy"></p>
+<hr>
+<h1 id="配置picgo">– 配置PicGo</h1>
+<p>前往<a href="https://github.com/Molunerfinn/picgo/releases">下载PicGo</a>，安装好后开始配置图床<br>
+<img src="https://img-blog.csdnimg.cn/20190920000020217.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2NzU5MjI0,size_16,color_FFFFFF,t_70" alt="08" loading="lazy"></p>
+<ul>
+<li>
+<p>**设定仓库名：**按照【用户名 / 图床仓库名】的格式填写</p>
+</li>
+<li>
+<p><strong>设定分支名：</strong>【master】</p>
+</li>
+<li>
+<p>**设定Token：**粘贴之前生成的【Token】</p>
+</li>
+<li>
+<p>**指定存储路径：**填写想要储存的路径，如【ITRHX-PIC/】，这样就会在仓库下创建一个名为 ITRHX-PIC 的文件夹，图片将会储存在此文件夹中</p>
+</li>
+<li>
+<p>**设定自定义域名：**它的作用是，在图片上传后，PicGo会按照【<code>自定义域名+储存路径+上传的图片名</code>】的方式生成访问链接，放到粘贴板上，因为我们要使用 jsDelivr 加速访问，所以可以设置为【<code>https://cdn.jsdelivr.net/gh/用户名/图床仓库名</code> 】，上传完毕后，我们就可以通过【<code>https://cdn.jsdelivr.net/gh/用户名/图床仓库名/图片路径</code>】加速访问我们的图片了，比如：https://cdn.jsdelivr.net/gh/TRHX/ImageHosting/ITRHX-PIC/A27/08.png</p>
+</li>
+</ul>
+<p>关于 jsDelivr 是如何引用资源的可以参考我的另一篇博客：<a href="https://www.itrhx.com/2019/02/10/A18-free-cdn/">《免费CDN：jsDeliver+Github》</a></p>
+<hr>
+<h1 id="进行高效创作">– 进行高效创作</h1>
+<p>配置好PicGo后，我们就可以进行高效创作了，将图片拖拽到上传区，将会自动上传并复制访问链接，将链接粘贴到博文中就行了，访问速度杠杠的，此外PicGo还有相册功能，可以对已上传的图片进行删除，修改链接等快捷操作，PicGo还可以生成不同格式的链接、支持批量上传、快捷键上传、自定义链接格式、上传前重命名等，更多功能自己去探索吧！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[温馨提示]]></title>
+        <id>https://banana1024.github.io/post/wen-xin-ti-shi/</id>
+        <link href="https://banana1024.github.io/post/wen-xin-ti-shi/">
+        </link>
+        <updated>2020-03-10T17:02:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>1、资料更新通知可能慢于或者快于资料实际更新时间1小时左右。平时这种课程肯定慢于官网几天，不要过于催促！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1、资料更新通知可能慢于或者快于资料实际更新时间1小时左右。平时这种课程肯定慢于官网几天，不要过于催促！</p>
+<!-- more -->
+<p>2、本群仍然不可以打广告 建议讨论学习相关的事<br>
+3、百度网盘群的资料收集来自很多地方 一些联系方式可以忽略 你能看到那些 说明我已经买了 我买了四五家的！<br>
+4、如果想邀请别人进入网盘群，购买资料者可以享受原价-10的邀请，价格你可以定。毕竟公共课目前我买的很多机构售价都一两百了！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3月10更新内容]]></title>
+        <id>https://banana1024.github.io/post/3-yue-10-geng-xin-nei-rong/</id>
+        <link href="https://banana1024.github.io/post/3-yue-10-geng-xin-nei-rong/">
+        </link>
+        <updated>2020-03-10T16:56:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>【2021政治】考-基础马原更新第7节<br>
+【2021政治】新东-史纲预热更新第7次<br>
+【2021英语】朱伟-5500词听写讲义更新</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>【2021政治】考-基础马原更新第7节<br>
+【2021政治】新东-史纲预热更新第7次<br>
+【2021英语】朱伟-5500词听写讲义更新</p>
+<!-- more -->
+<p>【2021英语】陈正康-基础班阅读超精读更新第一节<br>
+【2021数学】杨超-沪江基础班-高数第4章第8节<br>
+【2021数学】有道-教材领学更新25，26<br>
+【2021西综】贺银成-生理学基础直播 第3讲<br>
+【2021西综】严大-春季班-王强生理更新第7章<br>
+【2021西综】天天-高端课程第53节<br>
+【2021西综】照照-生理学张蕴新重难点释疑-血液~1<br>
+【2021管综】文-数学基础课程——数学（十一）【直播回放】3月9日（仲毅）<br>
+【2021管综】陈剑幂学管综寒假5天集训营06-09</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea 进行网站的发布和文章编写]]></title>
+        <id>https://banana1024.github.io/post/test/</id>
+        <link href="https://banana1024.github.io/post/test/">
+        </link>
+        <updated>2020-03-08T15:22:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Coding 介绍</strong><br>
+<a href="https://coding.net/">CODING</a> 和 <a href="https://www.github.com/">GitHub</a> 主要功能类似，都是提供代码托管服务。由于 Coding 为腾讯代理，在国内的服务器较多，<strong>所以使用 <a href="https://coding.net/">Coding Page</a> 运行速度要比 <a href="https://pages.github.com/">GitHub Page</a> 快很多</strong>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Coding 介绍</strong><br>
+<a href="https://coding.net/">CODING</a> 和 <a href="https://www.github.com/">GitHub</a> 主要功能类似，都是提供代码托管服务。由于 Coding 为腾讯代理，在国内的服务器较多，<strong>所以使用 <a href="https://coding.net/">Coding Page</a> 运行速度要比 <a href="https://pages.github.com/">GitHub Page</a> 快很多</strong>。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://assets.wubin.design/blog/typecho/Frame%203.jpg" alt="3561610c-0908-49fa-8da2-846777015db1.png" title="3561610c-0908-49fa-8da2-846777015db1.png" loading="lazy"></figure>
+<p>官方是这样介绍的: Coding.net 是一个面向开发者的云端开发平台，提供 Git/SVN 代码托管、任务管理、在线 WebIDE、Cloud Studio、开发协作、文件管理、Wiki 管理、提供个人服务及企业版本的服务</p>
+<p>另外,官网下方有一堆 &quot;为何选择 CODING&quot; 的原因:<br>
+<img src="https://assets.wubin.design/blog/typecho/1%E6%88%AA%E5%9B%BE20200307153048.png" alt="1截图20200307153048.png" title="1截图20200307153048.png" loading="lazy"><br>
+😄 真是谁厉害VS谁呀...</p>
+<p>另外，CODING 最近还上线了 <a href="https://coding.net/products/cloudstudio">Cloud Studio</a>，收费模式和运行方式像极了设计软件中的 <a href="https://figma.tech/post/About-Figma/">Figma</a> . 它可以让编码在浏览器中完成后直接运行代码的云端 IDE。真是又一次颠覆了一批 70 80 90 后的世界观了，看样子世界是进步的...</p>
+<p><strong>Gridea 介绍</strong><br>
+Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。<br>
+官网: <a href="https://gridea.dev/">https://gridea.dev/</a></p>
+<figure data-type="image" tabindex="2"><img src="https://assets.wubin.design/blog/typecho/1531597508.gif" alt="1531597508.gif" title="1531597508.gif" loading="lazy"></figure>
+<h3 id="第一步-注册-coding">第一步: 注册 Coding</h3>
+<p>注册地址: <a href="https://e.coding.net/signup">https://e.coding.net/signup</a></p>
+<p>coding 在2020年初进行了注册改动，注册时候需要先有一个团队才可以，<br>
+也就是说你先创建一个团队然后再进行注册即可(免费注册团队)。<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307182624.png" alt="QQ截图20200307182624.png" title="QQ截图20200307182624.png" loading="lazy"></p>
+<h3 id="第二步-创建一个-coding-新建项目">第二步: 创建一个 Coding 新建项目</h3>
+<p>地址目录: coding.net/user/projects</p>
+<p><strong>1.点击 - 新建项目</strong><br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307150024.png" alt="QQ截图20200307150024.png" title="QQ截图20200307150024.png" loading="lazy"></p>
+<p><strong>2.选择 - 代码托管项目</strong><br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307150050.png" alt="QQ截图20200307150050.png" title="QQ截图20200307150050.png" loading="lazy"></p>
+<p><strong>3.编辑 - 写个方便记住的地址</strong><br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307150234.png" alt="QQ截图20200307150234.png" title="QQ截图20200307150234.png" loading="lazy"></p>
+<p><strong>4.设置 仓库名称 令牌用户名 令牌</strong><br>
+仓库名称:<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307201602.png" alt="QQ截图20200307201602.png" title="QQ截图20200307201602.png" loading="lazy"></p>
+<p>令牌用户名 令牌生成地址:<br>
+Coding 网站目录在: coding.net/user/account/setting/tokens<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307202933.png" alt="QQ截图20200307202933.png" title="QQ截图20200307202933.png" loading="lazy"></p>
+<h3 id="第三步-注册并解析域名">第三步: 注册并解析域名</h3>
+<p>注册个域名，国内的域名需要备案等操作。<br>
+你可以在下方网站注册域名:</p>
+<p>GoDaddy: <a href="https://hk.godaddy.com/">https://hk.godaddy.com/</a><br>
+Hostinger: <a href="https://www.hostinger.com.hk/">https://www.hostinger.com.hk/</a></p>
+<p><strong>添加解析记录</strong><br>
+<strong>1.添加 A记录（主机地址）</strong></p>
+<p>注意记录类型为<code>A</code>，主机记录为<code>@</code>，解析线路选择默认，记录值为你项目所部署到Coding Pages的IP地址，可以通过ping得到。如我的Coding仓库为<code>wj2k5q.coding-pages.com</code>，则打开<code>cmd</code>（<code>win</code> + <code>R</code>，然后再输入<code>cmd</code>），输入<code>ping wj2k5q.coding-pages.com</code>，结果如下图所示：<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307193817.png" alt="QQ截图20200307193817.png" title="QQ截图20200307193817.png" loading="lazy"><br>
+取出其中的<code>124.156.205.241</code>作为记录值即可。</p>
+<p><strong>2.添加 CNAME（别名）</strong></p>
+<p>主机<code>www</code><br>
+指向<code>wj2k5q.coding-pages.com</code></p>
+<p><strong>3.在 Coding 静态网站 设置中进行自定义域名绑定</strong></p>
+<p>打开 Coding 静态网站部署，进入设置页面，为网站绑定自己的域名。添加刚才解析的两条记录，如下图所示：<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307191558.png" alt="QQ截图20200307191558.png" title="QQ截图20200307191558.png" loading="lazy"><br>
+为了安全，记得开启强制 https</p>
+<h3 id="第四步-下载安装-gridea">第四步: 下载安装 Gridea</h3>
+<p>客户端下载地址: <a href="https://gridea.dev/">https://gridea.dev/</a></p>
+<p>下载安装过程不做说明</p>
+<p><strong>1.设置代码本地目录</strong><br>
+点击此处设置<br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307200554.png" alt="QQ截图20200307200554.png" title="QQ截图20200307200554.png" loading="lazy"><br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307200357.png" alt="QQ截图20200307200357.png" title="QQ截图20200307200357.png" loading="lazy"></p>
+<!-- more -->
+<!-- more -->
+<p><strong>2.设置远程服务</strong><br>
+点击&quot;远程&quot;, 然后选择 &quot;Coding Pages&quot;<br>
+按页面提示填写<strong>保存</strong>后, 点击<strong>监测远程链接</strong><br>
+<img src="https://assets.wubin.design/blog/typecho/QQ%E6%88%AA%E5%9B%BE20200307203549.png" alt="QQ截图20200307203549.png" title="QQ截图20200307203549.png" loading="lazy"></p>
+<h3 id="第五步-在-gridea-进行网站的发布和文章编写">第五步: 在 Gridea 进行网站的发布和文章编写</h3>
+<p>什么都不如一张图来的清晰:<br>
+<img src="https://assets.wubin.design/blog/typecho/Group%201.png" alt="Group 1.png" title="Group 1.png" loading="lazy"></p>
+<p>本文由 <a href="https://www.wubin.design/index.php/author/1/">Bruce Wu</a> 创作，采用 <a href="https://creativecommons.org/licenses/by/4.0/">知识共享署名4.0</a> 国际许可协议进行许可<br>
+本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
+最后编辑时间为: Mar 7, 2020 at 09:05 pm</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://banana1024.github.io/post/hello-gridea/</id>
+        <link href="https://banana1024.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
