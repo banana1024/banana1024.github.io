@@ -5,6 +5,16 @@
     <link>https://banana1024.github.io/series/</link>
     <description>Recent content in Series on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://banana1024.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://banana1024.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>https://banana1024.github.io/series/documentation/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://banana1024.github.io/series/documentation/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
