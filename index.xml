@@ -25,5 +25,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://banana1024.github.io/posts/configuration/featured.png" />
     </item>
     
+    <item>
+      <title>考研</title>
+      <link>https://banana1024.github.io/posts/configuration/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://banana1024.github.io/posts/configuration/</guid>
+      <description>逐步更新中……</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://banana1024.github.io/posts/configuration/featured.png" />
+    </item>
+    
   </channel>
 </rss>
