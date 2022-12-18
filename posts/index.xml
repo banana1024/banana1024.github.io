@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章列表 on Blowfish</title>
+    <title>Posts on Blowfish</title>
     <link>https://banana1024.github.io/posts/</link>
-    <description>Recent content in 文章列表 on Blowfish</description>
+    <description>Recent content in Posts on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://banana1024.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>公务员</title>
-      <link>https://banana1024.github.io/posts/configuration/</link>
+      <link>https://banana1024.github.io/posts/poeple/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://banana1024.github.io/posts/configuration/</guid>
-      <description>2023年粉笔决战行测5000题（共11册）&gt; 2023年粉笔决战行测5000题（共11册） # https://pan.baidu.com/share/init?surl=pjEt-f-pEgnMQpMcH7c-Kg
+      <guid>https://banana1024.github.io/posts/poeple/</guid>
+      <description>⭐2023年粉笔决战行测5000题（共11册）&gt; ⭐2023年粉笔决战行测5000题（共11册） # https://pan.baidu.com/share/init?surl=pjEt-f-pEgnMQpMcH7c-Kg
 百度云：ngaw
 2022-11-06
 |-1122国考行****测真题单独一册.pdf - 6.3M - 2022-11-02 15:41
@@ -26,10 +26,10 @@
     
     <item>
       <title>考研</title>
-      <link>https://banana1024.github.io/posts/configuration/</link>
+      <link>https://banana1024.github.io/posts/postgraduate/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://banana1024.github.io/posts/configuration/</guid>
+      <guid>https://banana1024.github.io/posts/postgraduate/</guid>
       <description>逐步更新中……</description>
     </item>
     
