@@ -12,7 +12,12 @@
     
   
     
-  
+      <url>
+            <loc>https://banana1024.github.io/posts/postgraduate/</loc>
+            <lastmod>2022-12-18T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -35,6 +40,10 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+  
     
   
     
